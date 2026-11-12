@@ -5,8 +5,11 @@ HomeDrop 的 Windows 接收端。iPhone App 通过同一 Wi-Fi 把原始照片�
 
 ## 下载
 
-打开 [最新版本](https://github.com/acanxp-cyber/homedrop-releases/releases/latest)，
-下载 `HomeDrop-Setup-<版本>.exe` 和对应的 `.sha256` 文件。
+[直接下载最新版 HomeDrop Windows 安装包](https://github.com/acanxp-cyber/homedrop-releases/releases/latest/download/HomeDrop-Windows-Setup.exe)
+
+App 内的“下载或更新 Windows 版”使用同一个直链。Release 中只提供一个
+需要安装的软件包，不需要再单独下载校验文件。每个版本的 SHA-256 写在
+Release 说明中。
 
 ## 安装
 
@@ -29,4 +32,4 @@ HomeDrop 的 Windows 接收端。iPhone App 通过同一 Wi-Fi 把原始照片�
 0.8.x 为测试版本，安装器尚未进行 Authenticode 代码签名。Windows
 SmartScreen 可能显示“未知发布者”；请先核对 Release 中的 SHA-256。
 
-源码仓库保持私有。本仓库仅发布安装包、校验文件和版本说明。
+源码仓库保持私有。本仓库只发布 Windows 安装包和版本说明。
