@@ -29,7 +29,7 @@ Release 说明中。
 
 ## 当前发布状态
 
-0.8.x 为测试版本，安装器尚未进行 Authenticode 代码签名。Windows
-SmartScreen 可能显示“未知发布者”；请先核对 Release 中的 SHA-256。
+0.9.x 为测试版本，安装器尚未进行 Authenticode 代码签名。Windows
+SmartScreen 可能显示“未知发布者”；请先核对 Release 说明中的 SHA-256。
 
 源码仓库保持私有。本仓库只发布 Windows 安装包和版本说明。
